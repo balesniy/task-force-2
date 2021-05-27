@@ -1,0 +1,17 @@
+{
+    "name": "deb/task-force-2",
+    "authors": [
+        {
+            "name": "balesniy",
+            "email": "balesniy@yandex.ru"
+        }
+    ],
+    "require": {
+        "spatie/enum": "^3.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "HtmlAcademy\\": "src/"
+        }
+    }
+}
